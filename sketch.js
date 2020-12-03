@@ -1,4 +1,4 @@
-var
+
 var monkey , monkey_running
 var banana,bananaImage, obstacle, obstacleImage
 var FoodGroup, obstacleGroup
